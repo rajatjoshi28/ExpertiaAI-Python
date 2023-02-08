@@ -15,5 +15,5 @@ Prerequisites:
 Execution:
 ---------------
 *	Clone the repository. - https://github.com/rajatjoshi28/ExpertiaAI-Python.git.
-*	execute test.py under tests directory
+*	execute testSuite.py under tests directory
 
